@@ -12,7 +12,7 @@ The template is particularly useful for professionals involved in:
 - Security assurance activities
 - Governance, Risk, and Compliance (GRC) programs
 
-### Purpose
+## Purpose
 The purpose of this template is to provide a standardized framework for reviewing SOC 2 Type II reports and extracting critical information needed for risk evaluation.
 It helps reviewers:
 - Document key details of the SOC 2 report
@@ -26,7 +26,7 @@ It helps reviewers:
 The spreadsheet includes multiple sections designed to guide the reviewer through the analysis process. Each section includes instructions in the Guide Sheet explaining how the template should be used.
 Key sections include:
 
-### Guide Sheet
+## Guide Sheet
 Provides instructions on how to complete each section of the template and how the analysis should be performed when reviewing a SOC 2 report.
 
 ## Report Overview
@@ -37,7 +37,7 @@ Captures high-level information about the SOC 2 report, including:
 - Type of SOC report
 - Trust Service Criteria covered
 
-  ### Scope and System Description Review
+  ## Scope and System Description Review
 Documents the scope of the audit and summarizes the system description to understand:
 - Services provided by the organization
 - System boundaries
@@ -50,7 +50,7 @@ Used to review the controls tested by the auditor, including:
 - Testing procedures performed
 - Results of testing
 
-### Exceptions and Findings
+## Exceptions and Findings
 Captures any control deviations or exceptions identified in the SOC 2 report and allows the reviewer to assess their significance and potential impact.
 
 ## Risk Assessment Notes
